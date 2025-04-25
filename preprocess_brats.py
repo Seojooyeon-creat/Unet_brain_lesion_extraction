@@ -3,7 +3,7 @@ import numpy as np
 import os
 import imageio
 
-input_dir = '/Users/jooyeonseo/Downloads/archive/BraTS2020_TrainingData/MICCAI_BraTS2020_TrainingData'
+input_dir = 'MICCAI_BraTS2020_TrainingData'
 output_image_dir = 'BraTS_slices/images'
 output_mask_dir = 'BraTS_slices/masks'
 
